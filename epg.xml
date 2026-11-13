@@ -19,102 +19,6 @@
         <display-name lang="en">NFL</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" />
     </channel>
-    <programme start="20261110000000 +0000" stop="20261110010000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110010000 +0000" stop="20261110020000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110020000 +0000" stop="20261110030000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110030000 +0000" stop="20261110040000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110040000 +0000" stop="20261110050000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110050000 +0000" stop="20261110060000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110150000 +0000" stop="20261110160000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110160000 +0000" stop="20261110170000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110170000 +0000" stop="20261110180000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110180000 +0000" stop="20261110190000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110190000 +0000" stop="20261110200000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110200000 +0000" stop="20261110210000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110210000 +0000" stop="20261110220000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110220000 +0000" stop="20261110230000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20261110230000 +0000" stop="20261110235900 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
     <programme start="20261111000000 +0000" stop="20261111010000 +0000" channel="MLB.Baseball.Dummy.us">
         <title lang="en">MLB Baseball</title>
         <desc lang="en">MLB Baseball</desc>
@@ -403,101 +307,101 @@
         <title lang="en">MLB Baseball</title>
         <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110000000 +0000" stop="20261110010000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110010000 +0000" stop="20261110020000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110020000 +0000" stop="20261110030000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110030000 +0000" stop="20261110040000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110040000 +0000" stop="20261110050000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110050000 +0000" stop="20261110060000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114060000 +0000" stop="20261114070000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114110000 +0000" stop="20261114120000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114120000 +0000" stop="20261114130000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114130000 +0000" stop="20261114140000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114140000 +0000" stop="20261114150000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110150000 +0000" stop="20261110160000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114150000 +0000" stop="20261114160000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110160000 +0000" stop="20261110170000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110170000 +0000" stop="20261110180000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110180000 +0000" stop="20261110190000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110190000 +0000" stop="20261110200000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114190000 +0000" stop="20261114200000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110200000 +0000" stop="20261110210000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110210000 +0000" stop="20261110220000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114210000 +0000" stop="20261114220000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110220000 +0000" stop="20261110230000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20261110230000 +0000" stop="20261110235900 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20261114230000 +0000" stop="20261114235900 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
     <programme start="20261111000000 +0000" stop="20261111010000 +0000" channel="NBA.Basketball.Dummy.us">
         <title lang="en">NBA Basketball</title>
@@ -787,101 +691,101 @@
         <title lang="en">NBA Basketball</title>
         <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110000000 +0000" stop="20261110010000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110010000 +0000" stop="20261110020000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110020000 +0000" stop="20261110030000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110030000 +0000" stop="20261110040000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110040000 +0000" stop="20261110050000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110050000 +0000" stop="20261110060000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114060000 +0000" stop="20261114070000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114110000 +0000" stop="20261114120000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114120000 +0000" stop="20261114130000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114130000 +0000" stop="20261114140000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114140000 +0000" stop="20261114150000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110150000 +0000" stop="20261110160000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114150000 +0000" stop="20261114160000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110160000 +0000" stop="20261110170000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110170000 +0000" stop="20261110180000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110180000 +0000" stop="20261110190000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110190000 +0000" stop="20261110200000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114190000 +0000" stop="20261114200000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110200000 +0000" stop="20261110210000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110210000 +0000" stop="20261110220000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114210000 +0000" stop="20261114220000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110220000 +0000" stop="20261110230000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20261110230000 +0000" stop="20261110235900 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No Subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20261114230000 +0000" stop="20261114235900 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
     <programme start="20261111000000 +0000" stop="20261111010000 +0000" channel="NHL.Hockey.Dummy.us">
         <title lang="en">NHL Hockey No Subtitle</title>
@@ -1171,101 +1075,101 @@
         <title lang="en">NHL Hockey No Subtitle</title>
         <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110000000 +0000" stop="20261110010000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110010000 +0000" stop="20261110020000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110020000 +0000" stop="20261110030000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110030000 +0000" stop="20261110040000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110040000 +0000" stop="20261110050000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110050000 +0000" stop="20261110060000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114060000 +0000" stop="20261114070000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114110000 +0000" stop="20261114120000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114120000 +0000" stop="20261114130000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114130000 +0000" stop="20261114140000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114140000 +0000" stop="20261114150000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110150000 +0000" stop="20261110160000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114150000 +0000" stop="20261114160000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110160000 +0000" stop="20261110170000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110170000 +0000" stop="20261110180000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110180000 +0000" stop="20261110190000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110190000 +0000" stop="20261110200000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114190000 +0000" stop="20261114200000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110200000 +0000" stop="20261110210000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110210000 +0000" stop="20261110220000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114210000 +0000" stop="20261114220000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110220000 +0000" stop="20261110230000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20261110230000 +0000" stop="20261110235900 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20261114230000 +0000" stop="20261114235900 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No Subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
     <programme start="20261111000000 +0000" stop="20261111010000 +0000" channel="PPV.EVENTS.Dummy.us">
         <title lang="en">PPV EVENT</title>
@@ -1555,101 +1459,101 @@
         <title lang="en">PPV EVENT</title>
         <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110000000 +0000" stop="20261110010000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110010000 +0000" stop="20261110020000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110020000 +0000" stop="20261110030000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110030000 +0000" stop="20261110040000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110040000 +0000" stop="20261110050000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110050000 +0000" stop="20261110060000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114060000 +0000" stop="20261114070000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114110000 +0000" stop="20261114120000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114120000 +0000" stop="20261114130000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114130000 +0000" stop="20261114140000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114140000 +0000" stop="20261114150000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110150000 +0000" stop="20261110160000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114150000 +0000" stop="20261114160000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110160000 +0000" stop="20261110170000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110170000 +0000" stop="20261110180000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110180000 +0000" stop="20261110190000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110190000 +0000" stop="20261110200000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114190000 +0000" stop="20261114200000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110200000 +0000" stop="20261110210000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110210000 +0000" stop="20261110220000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114210000 +0000" stop="20261114220000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110220000 +0000" stop="20261110230000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20261110230000 +0000" stop="20261110235900 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20261114230000 +0000" stop="20261114235900 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
     <programme start="20261111000000 +0000" stop="20261111010000 +0000" channel="NFL.Dummy.us">
         <title lang="en">NFL</title>
@@ -1936,6 +1840,102 @@
         <desc lang="en">NFL</desc>
     </programme>
     <programme start="20261113230000 +0000" stop="20261113235900 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114040000 +0000" stop="20261114050000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114060000 +0000" stop="20261114070000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114110000 +0000" stop="20261114120000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114120000 +0000" stop="20261114130000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114130000 +0000" stop="20261114140000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114140000 +0000" stop="20261114150000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114150000 +0000" stop="20261114160000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114190000 +0000" stop="20261114200000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114210000 +0000" stop="20261114220000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20261114230000 +0000" stop="20261114235900 +0000" channel="NFL.Dummy.us">
         <title lang="en">NFL</title>
         <desc lang="en">NFL</desc>
     </programme>
